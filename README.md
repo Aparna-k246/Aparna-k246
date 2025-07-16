@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aparna</h1>
-<h3 align="center">Backend + ML Engineer | Spring Boot | GenAI Enthusiast</h3>
+<h3 align="center">Backend + ML Engineer | Spring Boot | Generative AI Enthusiast</h3>
 
 ---
 
-🚀 I'm a software developer with **4+ years of experience** in building robust backend systems using **Spring Boot** and **Angular**, currently diving deep into **Generative AI** and **Machine Learning**.
+🚀 I'm a software developer with **4+ years of experience** building scalable backend systems using **Spring Boot** and **Angular**, and applying **Machine Learning** & **Generative AI** to solve real-world problems.
 
-🔍 I focus on building scalable backend systems combined with Machine Learning and Generative AI frameworks to deliver intelligent, real-world solutions.
+🔍  I focus on building scalable backend systems combined with Machine Learning and Generative AI frameworks to deliver intelligent, real-world solutions.
 
 ---
 
@@ -17,26 +17,41 @@
 ![MLflow](https://img.shields.io/badge/MLflow-0A0A0A?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ---
 
 ### 📌 Featured Projects
 
-- [**LangChain GenAI Projects**](https://github.com/Aparna-k246/GENAI-Projects-Langchain): Advanced GenAI apps using LangChain and vector stores.
-- [**MLFlow Experiments**](https://github.com/Aparna-k246/mlflowexperiments): Experiment tracking and model versioning with MLflow.
-- [**Spring Boot REST APIs**](#): RESTful backend services using Spring Boot.
-- [**ML Projects**](https://github.com/Aparna-k246/Ml-projects): Supervised learning and ML pipelines with Python.
+- [**GENAI-Projects-Langchain**](https://github.com/Aparna-k246/GENAI-Projects-Langchain)  
+  End-to-end Generative AI applications leveraging LangChain, vector search, agents, and chatbots with multiple domain-specific use cases.
 
-> 🔗 More on my GitHub — see pinned repos!
+- [**Gen-AI_Google-Gemini**](https://github.com/Aparna-k246/Gen-AI_Google-Gemini)  
+  Diverse GenAI projects using Google Gemini Pro models for PDF Q&A, Resume ATS parsing, Text-to-SQL, Nutritionist Vision, and agent-based assistants.
+
+- [**mlflowexperiments**](https://github.com/Aparna-k246/mlflowexperiments)  
+  Comprehensive ML lifecycle demos using MLflow for experiment tracking, model versioning, and deployment pipelines.
+
+- [**datascienceproject**](https://github.com/Aparna-k246/datascienceproject)  
+  Modular data ingestion, transformation, validation, model training, and evaluation pipelines in Python with a Flask frontend.
+
+- [**Ml-projects**](https://github.com/Aparna-k246/Ml-projects)  
+  Supervised learning models and practical machine learning pipelines implemented in Python.
+
+- [**dockerimagehub**](https://github.com/Aparna-k246/dockerimagehub)  
+  Docker images and container setups for various ML and backend projects, enabling easy deployment and environment consistency.
+
+- [**appgithubaction**](https://github.com/Aparna-k246/appgithubaction)  
+  CI/CD automation setups using GitHub Actions for streamlined integration and deployment workflows.
 
 ---
 
 ### 📚 Currently Learning
-- GenAI with LangChain + RAG
-- Vector Databases (Chroma, FAISS)
-- Full-stack ML apps with Docker & Streamlit
-- Advanced Backend Design Patterns
-- MLOPS
+- Advanced GenAI with LangChain and Retrieval-Augmented Generation (RAG)
+- Vector Databases: Chroma, FAISS
+- Building full-stack ML applications with Docker, Streamlit, and Flask
+- Advanced backend architecture & design patterns in Spring Boot
+- MLOps workflows and scalable deployment on AWS
 
 ---
 
@@ -45,11 +60,10 @@
 
 ---
 
-### 📊 GitHub Stats 
+### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aparna-k246&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aparna-k246&layout=compact&theme=radical)
 
 ---
 
 _“Code. Learn. Repeat.”_
-
