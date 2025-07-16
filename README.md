@@ -5,7 +5,7 @@
 
 🚀 I'm a software developer with **4+ years of experience** in building robust backend systems using **Spring Boot** and **Angular**, currently diving deep into **Generative AI** and **Machine Learning**.
 
-🔍 I’m focused on building intelligent, scalable apps by combining backend engineering with ML systems.
+🔍 I focus on building scalable backend systems combined with Machine Learning and Generative AI frameworks to deliver intelligent, real-world solutions.
 
 ---
 
