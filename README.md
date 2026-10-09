@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aparna</h1>
-<h3 align="center">Full Stack Engineer | Spring Boot & Angular | Machine Learning & Generative AI Enthusiast</h3>
+<h3 align="center">Forward Deployed AI Engineer | LLM Evaluation | Production Agentic AI Systems | RAG, LangChain, LangGraph, CUDA</h3>
 
 ---
 
-🚀 I'm a **Full Stack Software Engineer** with **4+ years of experience** building scalable backend systems with **Spring Boot**, responsive UIs with **Angular**, and deploying **Machine Learning** & **Generative AI** solutions end-to-end.
+🚀 Applied AI Engineer with 5+ years production experience. Currently designing 1,000+ evaluation benchmarks for agentic AI systems at Mercor and evaluating 500+ frontier LLM reasoning chains at Invisible AI. Built and deployed FinSense, a production agentic AI financial coaching agent serving 100+ real users combining RAG, LangGraph tool orchestration, LLM-as-judge evaluation and circuit breaker reliability..
 
 🚀 My GitHub reflects a wide range of projects — from **LangChain apps and Gemini-powered AI tools** to **ML lifecycle orchestration using MLflow** and **containerized, production-ready pipelines**.
 
